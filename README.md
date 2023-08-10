@@ -1,4 +1,9 @@
-## Install dependencies.
+## Clone the repository on the server
+```
+git clone https://github.com/MyrelleDamas/NODEJSBACKEND
+```
+
+## Install dependencies
 
 ```
 npm install
