@@ -1,7 +1,7 @@
 {
   "name": "express-hello-world",
   "version": "1.0.0",
-  "description": "Hello world app with express 4",
+  "description": "Hello Mundo",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -11,7 +11,7 @@
     "express",
     "hello-world"
   ],
-  "author": "Jatin Shridhar",
+  "author": "MD",
   "license": "MIT",
   "dependencies": {
     "express": "^4.15.0"
