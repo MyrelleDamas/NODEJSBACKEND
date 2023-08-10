@@ -1,24 +1,24 @@
 ## Install dependencies.
 
 ```
-$ npm install
+npm install
 ```
 ## Install skywalking agent
 
 ```
-$ npm install --save skywalking-backend-js
+npm install --save skywalking-backend-js
 ```
 
 ## Run the app
 
 ```
-$ npm run start
+npm run start
 ```
 
 ## Build Docker image
 
 ```
-$ cd /express-hello-world  
+$ cd /NODEJSBACKEND 
 $ docker build -t hello-world-image .
 ```
 
