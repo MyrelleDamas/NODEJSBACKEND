@@ -3,6 +3,11 @@
 ```
 $ npm install
 ```
+## Install skywalking agent
+
+```
+$ npm install --save skywalking-backend-js
+```
 
 ## Run the app
 
