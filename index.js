@@ -1,3 +1,4 @@
+/*Aqui você adiciona o agente na aplicação e configura o nome do ServiceName*/
 const {default: agent} = require('skywalking-backend-js');
 agent.start({
         serviceName: 'GMMI::TESTE-NODE-BACKEND-MANUAL',
